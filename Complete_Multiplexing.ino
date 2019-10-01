@@ -1,8 +1,5 @@
 //Jason Surendran
 //Multiplexing Project
-//Mr O'Neil
-//TEJ4M1
-//October 25 2016
 
 //GENERAL Game Variable Setup
 int DIAGONAL,SNAKE,PONG,NAME;
