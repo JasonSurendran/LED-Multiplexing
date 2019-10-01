@@ -1,4 +1,4 @@
 # LED-Multiplexing
 
-The classic Battleship game remade using a more custom gameplay in C. Incorporates a 9x9 game board with a two-player game format.
+Utilizes a 3x3 LED Matrix to run four different light sequence games (i.e Pong, Name, Diagonal, Snake). Game is selected through potentiometers
 
