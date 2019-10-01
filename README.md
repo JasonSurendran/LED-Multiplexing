@@ -12,4 +12,4 @@ Utilizes a 3x3 LED Matrix to run four different light sequence games (i.e Pong, 
 ## Running
 
 1. Validate/Compile
-2. Push to board
+2. Push to Arduino
